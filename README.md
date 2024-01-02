@@ -1,0 +1,2 @@
+# niconikx
+only for training.
